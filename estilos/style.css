@@ -46,9 +46,38 @@ main{
 }
 
 .icon:hover{
-    border: 3px solid rgba(255, 255, 255, 0.863);
-    width: 80px;
+    width: 60px;
     box-shadow: 5px 5px 10px rgb(24, 24, 24);
+    transition: .2s, border 0.5s;
+}
+
+.ic2:hover{
+    width: 60px;
+    box-shadow: 5px 5px 10px rgb(168, 32, 116);
+    transition: .2s, border 0.5s;
+}
+
+.ic3:hover{
+    width: 60px;
+    box-shadow: 5px 5px 10px rgb(1, 89, 110);
+    transition: .2s, border 0.5s;
+}
+
+.ic4:hover{
+    width: 60px;
+    box-shadow: 5px 5px 10px rgb(133, 2, 2);
+    transition: .2s, border 0.5s;
+}
+
+.ic5:hover{
+    width: 60px;
+    box-shadow: 5px 5px 10px rgb(49, 119, 3);
+    transition: .2s, border 0.5s;
+}
+
+.ic6:hover{
+    width: 60px;
+    box-shadow: 5px 5px 10px rgb(5, 64, 141);
     transition: .2s, border 0.5s;
 }
 
