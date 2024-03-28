@@ -49,7 +49,7 @@ main{
     border: 3px solid rgba(255, 255, 255, 0.863);
     width: 80px;
     box-shadow: 5px 5px 10px rgb(24, 24, 24);
-    transition: .2s, border 1s;
+    transition: .2s, border 0.5s;
 }
 
 .icon{
